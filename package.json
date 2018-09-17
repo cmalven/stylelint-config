@@ -1,0 +1,26 @@
+{
+  "name": "@malven/stylelint-config",
+  "version": "1.0.0",
+  "description": "Malven Co. shareable config for stylelint",
+  "keywords": [
+    "stylelint",
+    "stylelint-config"
+  ],
+  "author": "cmalven",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cmalven/stylelint-config.git"
+  },
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "devDependencies": {
+    "stylelint": "^9.0.0",
+    "stylelint-scss": "^2.5.0"
+  },
+  "peerDependencies": {
+    "stylelint": "^8.3.0 || ^9.0.0"
+  }
+}
