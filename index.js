@@ -91,7 +91,7 @@ module.exports = {
     "media-query-list-comma-space-after": "always",
     "media-query-list-comma-space-before": "never",
     "no-descending-specificity": null,
-    "no-duplicate-selectors": true,
+    "no-duplicate-selectors": null,
     "no-empty-source": true,
     "no-eol-whitespace": true,
     "no-extra-semicolons": true,
