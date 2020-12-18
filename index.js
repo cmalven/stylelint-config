@@ -52,7 +52,7 @@ module.exports = {
     "declaration-colon-space-before": "never",
     "declaration-empty-line-before": "never",
     "declaration-no-important": null,
-    "declaration-property-unit-blacklist": {},
+    "declaration-property-unit-disallowed-list": {},
     "declaration-property-value-blacklist": {},
     "font-family-name-quotes": "always-unless-keyword",
     "font-family-no-duplicate-names": true,
