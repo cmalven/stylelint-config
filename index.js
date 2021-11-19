@@ -54,7 +54,6 @@ module.exports = {
     "font-family-name-quotes": "always-unless-keyword",
     "font-family-no-duplicate-names": true,
     "font-weight-notation": "named-where-possible",
-    "function-calc-no-invalid": true,
     "function-calc-no-unspaced-operator": true,
     "function-comma-newline-after": null,
     "function-comma-newline-before": "never-multi-line",
