@@ -7,7 +7,7 @@ Use it as is or as a foundation for your own config.
 ## Installation
 
 ```bash
-npm install stylelint stylelint-scss @malven/stylelint-config --save-dev
+npm install stylelint @malven/stylelint-config --save-dev
 ```
 
 ## Usage
