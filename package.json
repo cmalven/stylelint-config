@@ -1,6 +1,6 @@
 {
   "name": "@malven/stylelint-config",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Malven Co. shareable config for stylelint",
   "keywords": [
     "stylelint",

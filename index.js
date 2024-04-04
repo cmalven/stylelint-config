@@ -105,7 +105,6 @@ module.exports = {
     "scss/double-slash-comment-empty-line-before": null,
     "scss/double-slash-comment-inline": null,
     "scss/double-slash-comment-whitespace-inside": "always",
-    "scss/media-feature-value-dollar-variable": "always",
     "scss/operator-no-newline-after": null,
     "scss/operator-no-newline-before": true,
     "scss/operator-no-unspaced": true,
