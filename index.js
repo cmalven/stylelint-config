@@ -1,16 +1,12 @@
-"use strict";
-
-module.exports = {
+export default {
   "customSyntax": 'postcss-scss',
   "plugins": [
     "stylelint-scss"
   ],
   "rules": {
     "at-rule-empty-line-before": null,
-    "at-rule-name-newline-after": null,
     "at-rule-no-unknown": null,
     "at-rule-no-vendor-prefix": true,
-    "block-closing-brace-space-after": null,
     "block-no-empty": null,
     "color-hex-length": "short",
     "color-named": null,
@@ -33,10 +29,8 @@ module.exports = {
     "font-family-no-duplicate-names": true,
     "font-weight-notation": "named-where-possible",
     "function-calc-no-unspaced-operator": true,
-    "function-comma-newline-after": null,
     "function-linear-gradient-no-nonstandard-direction": true,
     "function-name-case": "lower",
-    "function-parentheses-newline-inside": null,
     "function-url-no-scheme-relative": true,
     "function-url-quotes": "always",
     "keyframe-declaration-no-important": true,
@@ -88,7 +82,6 @@ module.exports = {
     "scss/at-function-pattern": null,
     "scss/at-if-closing-brace-newline-after": "always-last-in-chain",
     "scss/at-if-closing-brace-space-after": "always-intermediate",
-    "scss/at-import-no-partial-leading-underscore": true,
     "scss/at-import-partial-extension-whitelist": null,
     "scss/at-mixin-argumentless-call-parentheses": "never",
     "scss/at-mixin-parentheses-space-before": "never",
